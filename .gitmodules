@@ -1,0 +1,39 @@
+[submodule "game2d.mod"]
+	path = game2d.mod
+	url = https://github.com/wiebow/game2d.mod.git
+[submodule "scramblernd.game2d"]
+	path = scramblernd.game2d
+	url = https://github.com/wiebow/scramblernd.game2d.git
+[submodule "grid2d.mod"]
+	path = grid2d.mod
+	url = https://github.com/wiebow/grid2d.mod.git
+[submodule "vector2d.mod"]
+	path = vector2d.mod
+	url = https://github.com/wiebow/vector2d.mod.git
+[submodule "propertygrid.mod"]
+	path = propertygrid.mod
+	url = https://github.com/wiebow/propertygrid.mod.git
+[submodule "boulderdash.game2d"]
+	path = boulderdash.game2d
+	url = https://github.com/wiebow/boulderdash.game2d.git
+[submodule "asteroids.game2d"]
+	path = asteroids.game2d
+	url = https://github.com/wiebow/asteroids.game2d.git
+[submodule "mutated.monkey"]
+	path = mutated.monkey
+	url = https://github.com/wiebow/mutated.monkey.git
+[submodule "unittest.monkey"]
+	path = unittest.monkey
+	url = https://github.com/wiebow/unittest.monkey.git
+[submodule "guide"]
+	path = guide
+	url = https://github.com/wiebow/guide.git
+[submodule "quadtree.mod"]
+	path = quadtree.mod
+	url = https://github.com/wiebow/quadtree.mod.git
+[submodule "artemax.mod"]
+	path = artemax.mod
+	url = https://github.com/wiebow/artemax.mod.git
+[submodule "sublimetext3"]
+	path = sublimetext3
+	url = https://github.com/wiebow/sublimetext3.git
